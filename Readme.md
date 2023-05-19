@@ -81,10 +81,6 @@ The provided example will generate the plots for fixed number of qubits for the 
 
 For experiments different than the provided example, make sure to modify the variables of the "for" loop and also the variables "i" and "k" depending on the desired experiment. (They must be consistent across all three .py scripts)
 
-############################################################################################
-############################################################################################
-############################################################################################
-
 
 
 
