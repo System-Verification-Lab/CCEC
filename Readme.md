@@ -61,8 +61,8 @@ The original file lies in "qusat/extern/qfr/src/algorithms/RandomCliffordCircuit
  
 # install QuSat
 # Follow instructions in https://github.com/cda-tum/qusat/blob/main/README.md to install QuSat
-# [[The provided example will generate the plots for fixed number of qubits for the values 50 and 250 and varying depth up to 150.]]
-# [[For experiments different than the provided example, make sure to modify the variables of the "for" loops and the variables "i" and "j" according to the desired experiment.]]
+# The provided example will generate the plots for fixed number of qubits for the values 50 and 250 and varying depth up to 150.
+# For experiments different than the provided example, make sure to modify the variables of the "for" loops and the variables "i" and "j" according to the desired experiment.
  
 #######################
 # Running numerics    #
@@ -75,9 +75,9 @@ The original file lies in "qusat/extern/qfr/src/algorithms/RandomCliffordCircuit
 python3 run_all.py 
 
 
-#[[The provided example will generate the plots for fixed number of qubits for the values 50 and 250 and varying depth up to 150. For different experiments make sure to modify the variables accordingly.]]
+#The provided example will generate the plots for fixed number of qubits for the values 50 and 250 and varying depth up to 150. For different experiments make sure to modify the variables accordingly.
 
-#[[For experiments different than the provided example, make sure to modify the variables of the "for" loop and also the variables "i" and "k" depending on the desired experiment. (They must be consistent across all three .py scripts)]]
+#For experiments different than the provided example, make sure to modify the variables of the "for" loop and also the variables "i" and "k" depending on the desired experiment. (They must be consistent across all three .py scripts)
 
 ############################################################################################
 ############################################################################################
