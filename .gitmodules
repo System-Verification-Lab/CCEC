@@ -1,3 +1,6 @@
 [submodule "Stim"]
 	path = Stim
 	url = https://github.com/quantumlib/Stim
+[submodule "qusat"]
+	path = qusat
+	url = https://github.com/cda-tum/qusat
