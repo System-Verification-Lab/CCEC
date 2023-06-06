@@ -27,7 +27,7 @@ The original file lies in "qusat/test/test_satencoder.cpp"
 The original file lies in "qusat/extern/qfr/src/algorithms/RandomCliffordCircuit.cpp"
 
 
-# install QuSat
+# install QuSAT
  Follow instructions in https://github.com/cda-tum/qusat/blob/main/README.md to install QuSat
 
 The provided example will generate the plots for fixed number of qubits for the values 50 and 250 and varying depth up to 150.
