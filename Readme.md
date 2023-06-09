@@ -1,3 +1,9 @@
+## Description
+
+This tool runs experiments and produces a plot that compares the method of QuSAT to our approach for equivalence checking of quantum circuits using a range of benchmarks. In particular, it produces random circuits using QuSAT, together with the running times for equivalence checking of each quantum circuit to an equivalent one. After translating the circuits into .stim type circuits, it will run the same equivalence checking experiments using our approach. The running times will be saved and the plot will be produced. 
+
+
+
 ## INSTALLATION INSTRUCTIONS
  
  Run 
@@ -35,8 +41,7 @@ The provided example will generate the plots for fixed number of qubits for the 
 
 # Running numerics    #
 
- 
-the "run_all.py" will run all four python scripts that are necessary for producing and plotting the data. 
+After running QuSAT (this will produce the random quantum circuits), run "run_all.py" which will run all four python scripts that are necessary for performing equivalence checking using our approach and plotting the data. 
 
 ```
 python3 run_all.py 
